@@ -11,11 +11,11 @@ public class AliveApplication {
     }
 
     public static String githubUrl() {
-        return "";
+        return "https://github.com/ollikehy/wepa_viikko4";
     }
 
     public static String travisUrl() {
-        return "";
+        return "https://travis-ci.org/ollikehy/wepa_viikko4";
     }
 
     public static String herokuUrl() {
